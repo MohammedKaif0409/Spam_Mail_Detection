@@ -11,7 +11,7 @@ A machine learning project to classify emails as spam or ham using NLP technique
 
 📊 Performance Metrics
 
-🔹 Accuracy🔹 Precision🔹 Recall🔹 F1-score
+🔹 Accuracy🔹 Precision🔹 Recall
 
 🚀 Future Enhancements
 
