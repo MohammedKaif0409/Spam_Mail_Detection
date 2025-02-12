@@ -17,6 +17,3 @@ A machine learning project to classify emails as spam or ham using NLP technique
 
 ✨ Use deep learning (LSTMs, Transformers)✨ Create a web interface✨ Integrate with email services
 
-🤝 Contribute
-
-Contributions are welcome! Open issues and submit pull requests.
